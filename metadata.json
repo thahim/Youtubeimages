@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Creator",
+  "description": "An application to generate multiple images from text prompts using the Gemini API.",
+  "requestFramePermissions": []
+}
